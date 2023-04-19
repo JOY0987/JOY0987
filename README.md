@@ -2,6 +2,11 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=B3FFAE&height=250&section=header&text=%20Yewon%20GitHub%20🍀&fontSize=60)
   
+### <div><a href="https://joy0987.notion.site/f23627a5caa04cbdbd476a58c8901dbd">My Portfolio</a></div>
+
+<span>👆 click!</span>
+
+  <br><br>
   <h2>🔨 Tech Stack</h2>
   <h3>🌻 Language</h3>
 	<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
