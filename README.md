@@ -36,4 +36,8 @@
   
 </div>
 
+<br><br> 
 
+<div align="center">
+<img src="https://github.com/JOY0987/JOY0987/assets/126743237/675a8a9a-eb73-40e9-a857-7e539b23d3de" width="500"/>
+</div>
