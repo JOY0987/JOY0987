@@ -1,7 +1,7 @@
 <div align="center">
 	
 <span>💻 Web BE Junior Developer ･ᴗ･</span>
-<br><br>
+<br><br><br>
 	
 ### <div><a href="https://joy0987.notion.site/f23627a5caa04cbdbd476a58c8901dbd">My Portfolio</a></div>
 
@@ -13,7 +13,11 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white">
+  <img src="https://img.shields.io/badge/junit5-25A162?style=flat&logo=junit5&logoColor=white">
+
   <br>
   <h3> Web </h3>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -33,8 +37,9 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
   <br>
   <h3>Ect</h3>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GIT-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 </div>
 <br><br><br> 
 <div align="center">
