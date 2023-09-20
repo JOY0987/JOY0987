@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat&logo=spring&logoColor=white"> 
   <br>
-  <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white">
   <img src="https://img.shields.io/badge/junit5-25A162?style=flat&logo=junit5&logoColor=white">
 
