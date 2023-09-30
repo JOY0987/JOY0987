@@ -2,12 +2,7 @@
 	
 <span>💻 Web BE Junior Developer ･ᴗ･</span>
 <br><br><br>
-	
-### <div><a href="https://joy0987.notion.site/f23627a5caa04cbdbd476a58c8901dbd">My Portfolio</a></div>
 
-<span>👆 click!</span>
- 
-  <br><br>
   <h2>🛠 Tech Stack</h2>
   <h3> Server </h3>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=Java&logoColor=white" />
