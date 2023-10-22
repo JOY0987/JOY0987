@@ -44,9 +44,4 @@
   <br><br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joy0987&layout=compact">
  <br>
- <p align="center">
-  <a href="https://solved.ac/joy0987/" target="_blank">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joy0987" alt="Solved.ac Profile">
-  </a>
-</p>
 </div>
